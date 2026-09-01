@@ -11,6 +11,31 @@
 [![Status](https://img.shields.io/badge/Status-Accepting_Freelance_%26_Roles-00E676?style=for-the-badge&logo=statuspage&logoColor=white)](mailto:tjelvinia@gmail.com)
 
 <br/>
+
+### 👋 Full-Stack Web Developer · Frontend Developer · UI/UX Designer
+> **"Building functional, thoughtful, and visually engaging digital experiences."**
+
+<br/>
+
+<!-- ==================== PROMINENT CONTRIBUTION HEATMAP (ABOVE THE FOLD) ==================== -->
+### 🟩 400+ Contributions in the Last Year
+
+<a href="https://github.com/AKUMON12">
+  <!-- Dynamic Live Contribution Heatmap Grid -->
+  <img src="https://ghchart.rshah.org/39d353/AKUMON12" width="100%" alt="Tristan's GitHub Contribution Calendar" />
+</a>
+
+<!-- OPTIONAL: If you prefer using your exact screenshot image:
+Save your image inside your repo as `contributions.png` and use:
+<img src="./contributions.png" width="100%" alt="Tristan's GitHub Contributions" />
+-->
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKUMON12&theme=tokyonight&hide_border=true&background=0A0D14&ring=00F0FF&fire=00F0FF&currStreakNum=8B5CF6&sideNums=E2E8F0&sideLabels=94A3B8" height="155" alt="GitHub Streak" />
+</p>
+
 </div>
 
 ---
