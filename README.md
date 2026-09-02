@@ -77,7 +77,6 @@ const akumon = {
 ---
 
 <div align="center">
-Build. Design. Learn. Improve.
+<p>Build. Design. Learn. Improve.</p> 
 <sub>Thanks for stopping by. 🚀</sub>
-
 </div>
